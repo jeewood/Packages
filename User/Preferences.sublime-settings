@@ -1,6 +1,6 @@
 {
 	"always_prompt_for_file_reload": false,
-	"color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"font_face": "Courier New",
 	"font_size": 10,
 	"ignored_packages":
