@@ -1,0 +1,11 @@
+{
+	"always_prompt_for_file_reload": false,
+	"color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
+	"font_face": "Courier New",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Soda Light 3.sublime-theme"
+}
